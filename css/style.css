@@ -1,0 +1,11 @@
+*{
+    margin: 0%;
+    padding: 0%;
+
+}
+/* @media(max-width: 567px) {.list li{display: block;margin: 0%;}} */
+
+ .list :hover{
+    
+    background-color:rgb(61, 235, 99) ;
+}
